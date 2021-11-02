@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies, oftware and quick hacks.
+- 🤔 &nbsp; Exploring new technologies, softwares and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering.
 - 🌱 &nbsp; Learning more about Web development with ReactJs.
 
@@ -39,7 +39,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jabra-ram99/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jabra%20Ram-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/mr._ram99/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mr._ram99-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/mr._ram99/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Jabra Ram-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:jrchoudhary1999@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-jrchoudhary1999@yahoo.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
