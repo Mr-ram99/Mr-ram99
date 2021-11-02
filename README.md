@@ -31,8 +31,10 @@
 <a href="https://github.com/Mr-ram99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-ram99&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-ram99&theme=buefy&layout=compact" />
+  
 </a>
-
+<br/>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mr-ram99)
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
@@ -42,5 +44,5 @@
 <a href="https://www.instagram.com/mr._ram99/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Jabra Ram-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:jrchoudhary1999@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-jrchoudhary1999@yahoo.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
+![Profile views](https://gpvc.arturio.dev/Mr-ram99) 
 ⭐️ From [Mr-ram99](https://github.com/Mr-ram99)
