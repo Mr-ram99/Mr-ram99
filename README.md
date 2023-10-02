@@ -36,7 +36,3 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mr-ram99)
 
 
-
-⭐️ From [Mr-ram99](https://github.com/Mr-ram99)
-
-![Profile views](https://gpvc.arturio.dev/Mr-ram99)
