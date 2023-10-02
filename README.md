@@ -2,14 +2,13 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies, softwares and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Engineering.
-- 🌱 &nbsp; Learning more about Web development with ReactJs.
-
+- &nbsp;Software Engineer at kreeti technologies.
+- &nbsp;4 ⭐ Codechef
+- &nbsp;Specialist @Codeforces
+  
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -36,14 +35,6 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mr-ram99)
 
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p>
-<a href="https://www.linkedin.com/in/jabra-ram99/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jabra%20Ram-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/mr._ram99/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Jabra Ram-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:jrchoudhary1999@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-jrchoudhary1999@yahoo.com-blue?style=flat-square&logo=gmail"></a>
-</p>
 
 
 ⭐️ From [Mr-ram99](https://github.com/Mr-ram99)
